@@ -3,6 +3,3 @@
 
 # ignore checkpoints
 .ipynb_checkpoints/
-
-# ignore attributes
-.gitattributes
