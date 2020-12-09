@@ -1,2 +1,0 @@
-# ArcPy_snippets
- 
